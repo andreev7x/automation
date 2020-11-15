@@ -24,7 +24,7 @@ public class CatalogPage {
 
     //Получить название первого элемента списка процессоров
     public String getFirstItemText() {
-        String firstItemText = $(Selectors.byXpath("//article[1]/div/div/h3/a/span")).getText();
+        String firstItemText = $(Selectors.byXpath("//article[1]//h3/a/span")).getText();
         return firstItemText;
     }
 
