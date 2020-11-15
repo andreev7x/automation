@@ -8,6 +8,6 @@
 2. Тест "ImageSearchTest" - Пакет "imageSearch".
 3. Тест "LoginTest" - Пакет "login".
 4. Тест "ServicesTest" - Пакет "services".
-5. Тест "UploadFileTest" - Пакет "translator". !!! В переменную filePath класса UploadFileTest необходимо ввести путь к файлу uploadTest.pdf, который на гугл диске !!!
+5. Тест "UploadFileTest" - Пакет "translator". !!! В переменную filePath класса UploadFileTest необходимо будет ввести путь к файлу uploadTest.pdf. Файл есть на гугл диске !!!
 
 Для запуска теста открыть проект в Intellij IDEA, открыть тестовый класс, запустить тест кнопкой рядом с аннотацией @Test.
